@@ -1,5 +1,4 @@
 # Hospital Management System
-https://cs3319.gaul.csd.uwo.ca/vm224/a3tiger/mainmenu.php 
 
 Welcome to **Ramje Hospital Management System** – a dynamic, responsive, and robust web application for managing hospital operations. This project was created with passion and dedication to showcase a professional-grade management tool that integrates multiple functionalities for efficient healthcare administration.
 
